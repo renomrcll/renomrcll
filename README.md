@@ -1,4 +1,4 @@
-An Information Engineering student studying about data engineering and currently studying about web development using react
+An Information Engineering student studying about data engineering and currently studying about web development using MERN stacks
 
 <!--
 **renomrcll/renomrcll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
